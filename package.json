@@ -1,0 +1,19 @@
+{
+  "name": "teambirch",
+  "version": "1.0.0",
+  "description": "Github analytics",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhythmMagi/github-analytics.git"
+  },
+  "author": "Jeff Schrock, Myles Green, Mahfuz Kabir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RhythmMagi/github-analytics/issues"
+  },
+  "homepage": "https://github.com/RhythmMagi/github-analytics#readme"
+}
